@@ -19,7 +19,7 @@ h1 {
 }
 p{
     font-family:'courier_newbold';
-    color:cornflowerblue;
+    color:darkmagenta;
 }
 h2{
     font-family:'courier_newbold';
@@ -62,4 +62,9 @@ p.one{
 }
 p.two{
     overflow: hidden;
+}
+#page{
+    margin: auto;
+    background-color: dodgerblue;
+    border-radius: 100px;
 }
